@@ -1,0 +1,25 @@
+{{ $type := .Get "type" }}
+{{ $file := resources.Get "pubs.yaml" }} 
+{{ $items := $file | transform.Unmarshal }} 
+
+<div class="list-grid">
+    {{ range $items }}
+    {{ if eq .type $type }}
+    <div class="simple-list">
+        <span class="date top">{{ .date }}</span>
+            <span class="cite">
+                {{ if .url }}
+                <a href="{{ .url }}" target="blank" class="item small">{{ .title }}{{ .sub}}.</a>
+                {{ else }} 
+                <a href="{{ .path }}" class="item small">{{ .title }}{{ .sub}}.</a>
+                {{ end }}
+                <span>
+                    {{ .author | markdownify}}.
+                    <i>{{ .journal }}</i>
+                    {{ .journal_info }}.
+                </span>
+            </span>
+    </div>
+    {{ end }}   
+    {{ end }}
+</div>

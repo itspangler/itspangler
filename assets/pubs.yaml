@@ -1,0 +1,63 @@
+- title: 'A crisis of data? '
+  sub:  Transparency practices and infrastructures of value in data broker platforms
+  author: 'Matthew Zook and Ian Spangler'
+  journal: "The Annals of the American Association of Geographers"
+  journal_info: '113.1: 110-128'
+  date: 2021
+  type: peer
+  url: https://par.nsf.gov/servlets/purl/10406103
+  doi: https://doi.org/10.1080/24694452.2022.2071201
+  collaborators: 'Matthew Zook'
+
+- title: "Hidden value in the platform's platform: "
+  sub: Airbnb and the un-homing spatialities of emotional labor
+  author: 'Ian Spangler'
+  journal: "Transactions of the Institute of British Geograhers"
+  journal_info: '45: 575-588'
+  date: 2020
+  type: peer
+  url: https://www.researchgate.net/publication/338039508_Hidden_value_in_the_platform's_platform_Airbnb_displacement_and_the_un-homing_spatialities_of_emotional_labor#fullTextFileContent
+  doi: https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/tran.12367
+
+- title: "Searching for the Enslaved in the 'Cradle of Democracy': "
+  sub: Virginia's James River Plantations and the Reproduction of Local Social Memories
+  author: 'Meredith Stone, Ian Spangler, Xavier Griffin, and Stephen Hanna'
+  journal: "Southeastern Geographer"
+  journal_info: '56.2: 203-222'
+  date: 2016
+  type: peer
+  url: https://www.jstor.org/stable/26233788?seq=1#metadata_info_tab_contents
+  doi: https://www.jstor.org/stable/26233788?seq=1#metadata_info_tab_contents
+
+- title: Airbnb and the Costs of Emotional Labor in Havana, Cuba
+  author: 'David Nemer, Ian Spangler, and Michaelanne Dye'
+  journal: "21st ACM Conference on Computer-Supported Cooperative Work
+and Social Computing"
+  journal_info: '245-248'
+  date: 2018
+  type: peer
+  url: https://dl.acm.org/doi/10.1145/3272973.3274066
+
+- title: 'Lexington, Kentucky'
+  author: 'Ian Spangler'
+  journal: "Mapping Inequality: Redlining in New Deal America"
+  journal_info: '113.1: 110-128'
+  date: 2023
+  type: public
+  url: https://dsl.richmond.edu/panorama/redlining/map/KY/Lexington/context#loc=13/38.0411/-84.4975
+
+- title: 'Red Wine Vinegar'
+  author: 'Ian Spangler'
+  journal: "Southern Humanities Review"
+  journal_info: '54.2: 45-65'
+  date: 2021
+  type: cnf
+  path: red-wine-vinegar
+
+- title: 'Distortion: or, Nothing is where you think it is'
+  author: 'Ian Spangler'
+  journal: "Blotterature Literary Magazine"
+  journal_info: '2.2: 4-14'
+  date: 2015
+  type: cnf
+  path: distortion

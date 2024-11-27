@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<h1 class="buffer">{{ .Title }}</h1>
+
+<h3 class="buffer margin">{{ .Content }}</h3>
+<hr>
+
+<div class="list-grid">
+    {{ range .Pages.ByDate.Reverse }}
+        <div class="simple-list">
+            <span class="date top">{{ .Date.Format "2006" }}</span>
+            <span class="item small">
+                {{ if .Params.ext_link }}
+                <a href="{{ .Params.ext_link }}" target="blank" class="title">{{ .Title }}</a>
+                {{ else }}
+                <a href="{{ .Permalink }}" class="title">{{ .Title }}</a>
+                {{ end }}
+                <span style="font-style:oblique">at {{ .Params.uni }}{{ .Params.volume }}</span>{{ if .Params.issue }}:{{ .Params.issue }}{{ end }}
+            </span>
+        </div>
+    {{ end }}
+</div>
+
+{{ end }}

@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+Display');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+:root {
+    --sans-serif: 'ubuntu';
+    --mono: 'IBM Plex Mono';
+    --mono-header: 'vt323';
+    --serif: 'baskerville';
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 44px;
+    --footer-height: 70px;
+    --radius: 8px;
+    --theme: rgb(255, 255, 255);
+    --entry: rgb(255, 255, 255);
+    --primary: rgb(30, 30, 30);
+    --secondary: rgb(108, 108, 108);
+    --tertiary: rgb(214, 214, 214);
+    --gray: rgb(165, 165, 165);
+    --content: rgb(30, 30, 30);
+    --code-block-bg: rgb(28, 29, 33);
+    --code-bg: rgb(245, 245, 245);
+    --border: rgb(238, 238, 238);
+    --darkpurple: #8e7bd0;
+    --midpurple:#c0b5e5;
+    --lightpurple: #e5e1f4;
+    --waldenorange: #ff9300;
+    --success: #b4f4ac;
+    --warning: #ecdbdb;
+    --semibold: 500;
+    --homesize: 16px;
+    --textsize: 18px;
+    --h1size: 25px;
+    --entrysize: 15px;
+    --headersize: 16px;
+    --footersize: 13px;
+    --lineheight: 1.45;
+    --lineclamp: 8;
+    --marginleft: 26px;
+    --highlightyellow: rgb(255, 255, 132);
+}
+
+.dark {
+    --theme: rgb(29, 30, 32);
+    --entry: rgb(46, 46, 51);
+    --primary: rgb(218, 218, 219);
+    --secondary: rgb(155, 156, 157);
+    --tertiary: rgb(65, 66, 68);
+    --content: rgb(196, 196, 197);
+    --code-block-bg: rgb(46, 46, 51);
+    --code-bg: rgb(55, 56, 62);
+    --border: rgb(51, 51, 51);
+}
+
+.list {
+    background:
+      repeating-conic-gradient(
+        from 30deg at -20% -5% in hsl shorter hue,
+        hsla(51, 100%, 52%, 0.2) 15%,
+        hsla(184, 100%, 89%, 0.2) 23%,
+        hsla(0, 38%, 54%, 0.2) 43%
+      );
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      /* background-blend-mode:subtract; */
+    }
+
+.dark.list {
+    background: var(--theme);
+}
+    
+@keyframes changeColor {
+  /* 0% {
+    background: repeating-conic-gradient(
+      from 0deg at 0% 0% in hsl longer hue,
+      hsla(129, 31%, 52%, 0.8) 10%,
+      hsla(284, 60%, 66%, 0.8) 30%,
+      hsla(158, 100%, 72%, 0.8) 60%);
+    } */
+
+  0% {
+    background: repeating-conic-gradient(
+    from 0deg at 0% 0% in hsl longer hue,
+    hsla(190, 31%, 52%, 0.8) 10%,
+    hsla(33, 80%, 80%, 0.8) 30%,
+    hsla(251, 36%, 70%, 0.8) 60%);
+  }
+
+  33% {
+    background: repeating-conic-gradient(
+    from 0deg at 0% 0% in hsl longer hue,
+    hsla(190, 31%, 52%, 0.8) 10%,
+    hsla(33, 80%, 80%, 0.8) 30%,
+    hsla(251, 36%, 70%, 0.8) 60%);
+  }
+
+  66% {
+    background: repeating-conic-gradient(
+    from 0deg at 0% 0% in hsl longer hue,
+    hsla(190, 53%, 60%, 0.8) 10%,
+    hsla(65, 100%, 86%, 0.8) 30%,
+    hwb(251 79% 0% / 0.8) 60%);
+  }
+
+  100% {
+    background: repeating-conic-gradient(
+    from 0deg at 0% 0% in hsl longer hue,
+    hsla(190, 31%, 52%, 0.8) 10%,
+    hsla(33, 80%, 80%, 0.8) 30%,
+    hsla(251, 36%, 70%, 0.8) 60%);
+    }
+}

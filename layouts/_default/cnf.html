@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<h1 class="buffer">{{ .Title }}</h1>
+
+<h3 class="buffer">{{ .Content }}</h3>
+<hr>
+
+<div class="list-grid">
+    {{ range .Pages.ByDate.Reverse }}
+        <div class="simple-list">
+            <span class="date">{{ .Date.Format "2006" }}</span>
+            <span class="item small">
+                <a href="{{ .Permalink }}" class="title">{{ .Title }}</a> •
+                <i>{{ .Params.journal }} ({{ .Params.volume }}{{ if .Params.issue }}:{{ .Params.issue }}){{ else  }}){{ end }}</i>
+            </span>
+        </div>
+    {{ end }}
+</div>
+
+{{ end }}

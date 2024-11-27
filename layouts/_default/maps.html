@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+<h1 class="buffer">{{ .Title }}</h1>
+
+<h3 class="buffer">{{ .Content }} </h3>
+<hr>
+
+<h3 class="buffer">interactives</h3>
+<div>
+    {{ range .Pages.ByDate.Reverse }}
+    {{ if eq .Params.rank 0 }}
+    <div class="list-grid">
+        <div class="simple-list">
+            <span class="date">{{ .Date.Format "2006" }}</span>
+            <span class="item small">
+                <a {{ if .Params.ext_url }} href="{{ .Params.ext_url }}" target="blank" {{ else }} href="{{ .Permalink }}" {{ end }} class="title">{{ .Title }}</a>
+                <span style="font-style:oblique">{{ if .Params.collaborators }} with {{ .Params.collaborators }} {{ end }}</span>
+            </span>
+        </div>
+    </div>
+    {{ end }}
+    {{ end  }}
+</div>
+
+<h3 class="buffer">stills</h3>
+<div>
+    {{ range .Pages.ByDate.Reverse }}
+    {{ if eq .Params.rank 1 }}
+    <div class="list-grid">
+        <div class="simple-list">
+            <span class="date">{{ .Date.Format "2006" }}</span>
+            <span class="item small">
+                <a {{ if .Params.ext_url }} href="{{ .Params.ext_url }}" target="blank" {{ else }} href="{{ .Permalink }}" {{ end }} class="title">{{ .Title }}</a>
+                <span style="font-style:oblique">{{ if .Params.collaborators }} with {{ .Params.collaborators }} {{ end }}</span>
+            </span>
+        </div>
+    </div>
+    {{ end }}
+    {{ end  }}
+</div>
+
+<h3 class="buffer">archive</h3>
+<div>
+    {{ range .Pages.ByDate.Reverse }}
+    {{ if eq .Params.rank 2 }}
+    <div class="list-grid">
+        <div class="simple-list">
+            <span class="date">{{ .Date.Format "2006" }}</span>
+            <span class="item small">
+                <a {{ if .Params.ext_url }} href="{{ .Params.ext_url }}" target="blank" {{ else }} href="{{ .Permalink }}" {{ end }} class="title">{{ .Title }}</a>
+                <span style="font-style:oblique">{{ if .Params.collaborators }} with {{ .Params.collaborators }} {{ end }}</span>
+            </span>
+        </div>
+    </div>
+    {{ end }}
+    {{ end  }}
+</div>
+
+{{ end }}

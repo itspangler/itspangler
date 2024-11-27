@@ -1,0 +1,132 @@
+baseURL: "https://itspangler.com" 
+title: ian spangler
+pagination.pagerSize: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: research
+          url: research/
+          weight: 1
+        - name: projects
+          url: projects/
+          weight: 2
+        - name: teaching
+          url: teaching/
+          weight: 3
+        - name: writing
+          url: writing/
+          weight: 4
+        - name: maps
+          url: maps/
+          weight: 5
+        - name: contact
+          url: contact/
+          weight: 6
+        - name: cv
+          url: 20241024_spangler_cv.pdf
+          weight: 7
+
+params:
+    description: ""
+    author: Ian Spangler
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowRssButtonInSectionTermList: false
+    ShowToc: true
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    enableFuture: true
+    profileMode:
+          enabled: true
+          title: ian spangler
+          subtitle: "assistant curating [@lmec ↗](https://leventhalmap.org) lecturing [@tufts ↗](https://as.tufts.edu/classicalstudies/people/faculty/ian-spangler) writing [@here ↗](writing/)"
+          imageUrl: "sfwpic.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: ian spangler
+          buttons:
+            # - name: Job-market paper
+            #   url: jmp.pdf
+            - name: research
+              url: research/
+            - name: projects
+              url: projects/
+            - name: writing
+              url: writing/
+            - name: teaching
+              url: teaching/
+            - name: maps
+              url: maps/
+            - name: contact
+              url: contact/
+            - name: cv
+              url: '20241024_spangler_cv.pdf'
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: Email
+          url: contact/
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=3Wb9IhwAAAAJ&hl=en&oi=ao
+        - name: GitHub
+          url: https://github.com/itspangler
+        - name: BlueSky
+          url: https://bsky.app/profile/itspangler.bsky.social
+        - name: Tag
+          url: /tags
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "ian spangler"
+      icon: sfwpic.jpeg
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

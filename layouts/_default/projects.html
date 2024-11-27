@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<h1 class="buffer">{{ .Title }}</h1>
+
+<h3 class="buffer margin">{{ .Content }}</h3>
+<hr>
+
+<div class="list-grid">
+    {{ range .Pages.ByDate }}
+        <div class="simple-list">
+            {{ if .Params.Active }}<span class="ongoing">Active{{ else }}<span class="paused">Paused</span>{{ end }}</span>          
+            <span class="item small">
+                <a href="{{ .Params.ext_url }}" target="blank" class="title">{{ .Title }}</a>
+                <i>{{ .Params.journal }}</i> {{ .Params.volume }}{{ if .Params.issue }}:{{ .Params.issue }}){{ end }}
+            </span>
+        </div>
+        <div class="two-col">
+            <span></span>
+            <span class="narrow">
+                <p style="margin-bottom:20px">{{ .Description | markdownify}}</p>
+                <span class="collab">
+                    {{ if .Params.collaborators }}
+                        » Collaborators: {{ delimit .Params.collaborators ", " }}
+                    {{ end }}
+                </span>
+            </span>
+        </div>
+    {{ end }}
+</div>
+
+{{ end }}

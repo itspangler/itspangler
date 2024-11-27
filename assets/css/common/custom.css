@@ -1,0 +1,143 @@
+.border-top {
+    border-top: 1px solid var(--tertiary);
+}
+
+.narrow {
+    max-width: 540px
+}
+
+.two-col {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.small {
+    font-size: 0.8em;
+}
+
+.list-grid {
+    display: grid;
+    flex-direction: column;
+    /* gap: 20px; */
+}
+
+.simple-list {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    padding: 5px 0;
+    &>span {
+        font-family: var(--mono);
+        &.date+span>a, &.ongoing+span>a {
+            padding: 4px;
+            line-height: 1.85em;
+            border-bottom: 2px dotted var(--darkpurple);
+            &:hover {
+                background-color: var(--highlightyellow);
+            }
+        }
+        &.paused+span>a {
+            font-style: oblique;
+            color: var(--secondary);
+            padding: 4px;
+            border-bottom: 2px dotted var(--tertiary);
+            &:hover {
+                background-color: var(--highlightyellow);
+            }
+        }
+        & span, i {
+            font-family: 'baskerville';
+        }
+    }
+}
+
+.item {
+    /* font-weight: 900; */
+}
+
+.cite {
+    /* font-family: var(--serif) !important; */
+    text-indent: -2em;
+    margin-left: 2em;
+    @media screen and (max-width: 768px) {
+        text-indent: 0em;
+        margin-left: 0em;
+    }
+}
+
+.date,
+.ongoing,
+.paused {
+    color: rgb(105, 105, 105);
+    border: 1px dotted rgb(105, 105, 105);
+    border-radius: 1em;
+    margin: 0px 16px 8px 0px;
+    padding: 6px;
+    transition: transform 0.1s;
+    font-family: monospace;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 0.4em;
+
+    &::before {
+        content: '- '
+    }
+
+    &::after {
+        content: ' -'
+    }
+    &:hover {
+        /* transition:2s;
+        background:white; */
+    }
+
+    /* &:hover {
+        transform: scale(1.2)
+    } */
+}
+
+.ongoing, .date {
+    background-color: rgb(255, 255, 255);
+    max-height: fit-content;
+}
+
+.paused {
+    /* background-color: invert(var(--midpurple)); */
+    /* filter: invert(100%); */
+    /* background-color: rgb(105, 105, 105); */
+    border: 1px dotted rgb(207, 207, 207);
+    font-style: oblique;
+}
+
+.buffer {
+    margin: 1em 0em 1em 0em;
+}
+
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.collab {
+    color:var(--secondary);
+    font-family: monospace;
+    display: block;
+    line-height: 2;
+    font-size: 0.6em;
+}
+
+hr {
+    border: 0.5px solid var(--tertiary);
+    max-width: 200px;
+}
+
+.margin {
+    margin: 0em 0.5em 0em 0.5em;
+}
+
+.big {
+    font-size: 1.2em;
+}

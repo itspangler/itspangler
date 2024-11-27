@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<h1 class="buffer">{{ .Title }}</h1>
+
+<h3 class="buffer margin">{{ .Content }}</h3>
+<hr>
+
+<div class="list-grid">
+    {{ range .Pages.ByLastmod.Reverse }}
+        <div class="simple-list">
+            {{ if .Params.Active }}<span class="ongoing">Active{{ else }}<span class="paused">Paused</span>{{ end }}</span>
+            <span class="item small">
+                <a href="{{ .Permalink }}" class="title">{{ .Title }}</a>
+                {{/*  <i>{{ .Params.journal }}</i> ({{ .Params.volume }}{{ if .Params.issue }}:{{ .Params.issue }}){{ end }}  */}}
+            </span>
+        </div>
+        <div class="two-col">
+            <span></span>
+            <p class="narrow">{{ .Description | markdownify}}</p>
+        </div>
+    {{ end }}
+</div>
+
+{{ end }}
