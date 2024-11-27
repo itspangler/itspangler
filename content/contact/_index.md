@@ -7,7 +7,7 @@ layout: writing
 
 ### 🦋 @itspangler
 *on most social platforms*
-<br><br>
+<br><br> 
 
 ### 📬 ispangler at leventhalmap dot org
 *for Leventhal Center-related inquiries*
