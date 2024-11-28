@@ -26,12 +26,12 @@ menu:
         - name: maps
           url: maps/
           weight: 5
-        - name: contact
-          url: contact/
-          weight: 6
-        - name: cv
-          url: 20241024_spangler_cv.pdf
-          weight: 7
+        # - name: contact
+        #   url: contact/
+        #   weight: 6
+        # - name: cv
+        #   url: 20241024_spangler_cv.pdf
+        #   weight: 7
 
 params:
     description: ""
@@ -80,10 +80,10 @@ params:
               url: teaching/
             - name: maps
               url: maps/
-            - name: contact
-              url: contact/
-            - name: cv
-              url: '20241024_spangler_cv.pdf'
+            # - name: contact
+            #   url: contact/
+            # - name: cv
+            #   url: '20241024_spangler_cv.pdf'
             # - name: Tags
             #   url: tags/
             # - name: Archive
@@ -108,6 +108,8 @@ params:
           url: https://bsky.app/profile/itspangler.bsky.social
         - name: Tag
           url: /tags
+        - name: CV
+          url: '20241024_spangler_cv.pdf'
 
     assets:
         disableScrollBarStyle: true
