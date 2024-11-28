@@ -2,9 +2,8 @@
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
     max-width: calc(var(--main-width) + var(--gap));
-    margin: auto;
+    margin: 0 auto;
     padding: var(--gap);
-    /* background-image: url("../../../public/sfwpic.jpeg"); */
 }
 
 .page-header h1 {

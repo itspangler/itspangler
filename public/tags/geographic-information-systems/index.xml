@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Geographic Information Systems on ian spangler</title>
-    <link>https://itspangler.com/tags/geographic-information-systems/</link>
+    <link>http://localhost:1313/tags/geographic-information-systems/</link>
     <description>Recent content in Geographic Information Systems on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itspangler.com/tags/geographic-information-systems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/geographic-information-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Geospatial Humanities</title>
-      <link>https://itspangler.com/teaching/intro-geohum/</link>
+      <link>http://localhost:1313/teaching/intro-geohum/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/teaching/intro-geohum/</guid>
+      <guid>http://localhost:1313/teaching/intro-geohum/</guid>
       <description>Study in geospatial humanities</description>
     </item>
     <item>
       <title>Introduction to GIS</title>
-      <link>https://itspangler.com/teaching/intro-gis/</link>
+      <link>http://localhost:1313/teaching/intro-gis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/teaching/intro-gis/</guid>
+      <guid>http://localhost:1313/teaching/intro-gis/</guid>
       <description>Intro to GIS</description>
     </item>
     <item>
       <title>Processing Place</title>
-      <link>https://itspangler.com/projects/processing-place/</link>
+      <link>http://localhost:1313/projects/processing-place/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/projects/processing-place/</guid>
+      <guid>http://localhost:1313/projects/processing-place/</guid>
       <description>Curated the Leventhal Map &amp;amp; Education Center&amp;#39;s exhibition on the human role in computer map-making, *Processing Place: How Computers and Cartographers Redrew our World*, on display September 2024–March 2025</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>teaching on ian spangler</title>
-    <link>https://itspangler.com/teaching/</link>
+    <link>http://localhost:1313/teaching/</link>
     <description>Recent content in teaching on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itspangler.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Geospatial Humanities</title>
-      <link>https://itspangler.com/teaching/intro-geohum/</link>
+      <link>http://localhost:1313/teaching/intro-geohum/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/teaching/intro-geohum/</guid>
+      <guid>http://localhost:1313/teaching/intro-geohum/</guid>
       <description>Study in geospatial humanities</description>
     </item>
     <item>
       <title>U.S. Cities</title>
-      <link>https://itspangler.com/teaching/us-cities/</link>
+      <link>http://localhost:1313/teaching/us-cities/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/teaching/us-cities/</guid>
+      <guid>http://localhost:1313/teaching/us-cities/</guid>
       <description>Introduction to urban geography</description>
     </item>
     <item>
       <title>Introduction to GIS</title>
-      <link>https://itspangler.com/teaching/intro-gis/</link>
+      <link>http://localhost:1313/teaching/intro-gis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/teaching/intro-gis/</guid>
+      <guid>http://localhost:1313/teaching/intro-gis/</guid>
       <description>Intro to GIS</description>
     </item>
   </channel>

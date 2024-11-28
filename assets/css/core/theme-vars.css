@@ -68,6 +68,7 @@
       background-repeat: no-repeat;
       background-attachment: fixed;
       /* background-blend-mode:subtract; */
+      display: grid;
     }
 
 .dark.list {
