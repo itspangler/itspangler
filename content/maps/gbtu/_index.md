@@ -9,4 +9,4 @@ tags: ['tenant unions', 'boston']
 
 Created for a regional meeting of tenants' unions in New England.
 
-![twoways](gbtu-map.png)
+[![gbtu](gbtu-map.png)](gbtu-map.png)

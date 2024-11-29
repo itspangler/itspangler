@@ -141,3 +141,15 @@ hr {
 .big {
     font-size: 1.2em;
 }
+
+#warning {
+    background: #fff;
+    border: 2px dotted var(--darkpurple);
+    border-radius: 0.8em;
+    padding: 1em;
+    font-size: 0.6em;
+    width: fit-content;
+    @media screen and (max-width: 768px) {
+        max-width: 60vw;
+    }
+}

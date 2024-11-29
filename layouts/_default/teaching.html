@@ -13,9 +13,9 @@
                 {{ if .Params.ext_link }}
                 <a href="{{ .Params.ext_link }}" target="blank" class="title">{{ .Title }}</a>
                 {{ else }}
-                <a href="{{ .Permalink }}" class="title">{{ .Title }}</a>
+                <code class="title">{{ .Title }}</code>
                 {{ end }}
-                <span style="font-style:oblique">at {{ .Params.uni }}{{ .Params.volume }}</span>{{ if .Params.issue }}:{{ .Params.issue }}{{ end }}
+                <span style="font-style:oblique">at {{ .Params.uni }}{{ .Params.volume }}</span>
             </span>
         </div>
     {{ end }}

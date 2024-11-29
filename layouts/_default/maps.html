@@ -39,7 +39,23 @@
     {{ end  }}
 </div>
 
-<h3 class="buffer">archive</h3>
+<h3 class="buffer">archive <span id="warn-hover">⚠</span></h3>
+<script>
+    let e = document.getElementById('warn-hover');
+    e.onmouseover = function() {
+      document.getElementById('warning').style.display = 'block';
+    }
+    e.ontouchstart = function() {
+      document.getElementById('warning').style.display = 'block';
+    }
+    e.onmouseout = function() {
+      document.getElementById('warning').style.display = 'none';
+    }
+    e.ontouchend = function() {
+      document.getElementById('warning').style.display = 'none';
+    }
+</script>
+<code id="warning" style="display:none;" class="small">proceed with caution; this stuff doesn't work well on mobile</code>
 <div>
     {{ range .Pages.ByDate.Reverse }}
     {{ if eq .Params.rank 2 }}

@@ -3,7 +3,7 @@ title: "Mass Towns Challenge"
 date: 2022-11-06
 lastmod: 2022-11-06
 rank: 0
-layout: list
+layout: single
 tags: ["massachusetts", "glitch", "allmaps"]
 ---
 

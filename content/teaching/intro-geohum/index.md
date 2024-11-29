@@ -8,5 +8,6 @@ description: "Study in geospatial humanities"
 uni: Tufts University
 summary: "Introductory course covering key concepts in geospatial humanities, with focus on applications in GIS" 
 ext_link: https://geospatial-humanities.observablehq.cloud/geospatial-humanities/
+syllabus: yes
 
 ---

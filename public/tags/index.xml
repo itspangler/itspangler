@@ -30,13 +30,6 @@
       <description></description>
     </item>
     <item>
-      <title>Airbnb</title>
-      <link>https://itspangler.com/tags/airbnb/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/airbnb/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Antitrust</title>
       <link>https://itspangler.com/tags/antitrust/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
@@ -44,24 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Colonialism</title>
-      <link>https://itspangler.com/tags/colonialism/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/colonialism/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Digital Real Estate Technologies</title>
       <link>https://itspangler.com/tags/digital-real-estate-technologies/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://itspangler.com/tags/digital-real-estate-technologies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Eugenics</title>
-      <link>https://itspangler.com/tags/eugenics/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/eugenics/</guid>
       <description></description>
     </item>
     <item>
@@ -79,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Health Geography</title>
-      <link>https://itspangler.com/tags/health-geography/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/health-geography/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Leventhal Map &amp; Education Center</title>
       <link>https://itspangler.com/tags/leventhal-map--education-center/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
@@ -93,31 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>New Maps Plus</title>
-      <link>https://itspangler.com/tags/new-maps-plus/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/new-maps-plus/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Platforms</title>
       <link>https://itspangler.com/tags/platforms/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://itspangler.com/tags/platforms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Science &amp; Technology Studies</title>
-      <link>https://itspangler.com/tags/science--technology-studies/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/science--technology-studies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sensors</title>
-      <link>https://itspangler.com/tags/sensors/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/tags/sensors/</guid>
       <description></description>
     </item>
     <item>
@@ -247,6 +198,20 @@
       <description></description>
     </item>
     <item>
+      <title>Iiif</title>
+      <link>https://itspangler.com/tags/iiif/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/iiif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Maps Plus</title>
+      <link>https://itspangler.com/tags/new-maps-plus/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/new-maps-plus/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>New Orleans</title>
       <link>https://itspangler.com/tags/new-orleans/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
@@ -258,6 +223,41 @@
       <link>https://itspangler.com/tags/sanborn-maps/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       <guid>https://itspangler.com/tags/sanborn-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colonialism</title>
+      <link>https://itspangler.com/tags/colonialism/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/colonialism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eugenics</title>
+      <link>https://itspangler.com/tags/eugenics/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/eugenics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health Geography</title>
+      <link>https://itspangler.com/tags/health-geography/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/health-geography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science &amp; Technology Studies</title>
+      <link>https://itspangler.com/tags/science--technology-studies/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/science--technology-studies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensors</title>
+      <link>https://itspangler.com/tags/sensors/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/sensors/</guid>
       <description></description>
     </item>
     <item>
@@ -286,6 +286,13 @@
       <link>https://itspangler.com/tags/rosenwald-schools/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://itspangler.com/tags/rosenwald-schools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Airbnb</title>
+      <link>https://itspangler.com/tags/airbnb/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://itspangler.com/tags/airbnb/</guid>
       <description></description>
     </item>
     <item>

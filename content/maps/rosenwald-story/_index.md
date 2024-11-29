@@ -3,7 +3,7 @@ title: "The Rosenwald Schools"
 date: 2018-08-08
 lastmod: 2018-08-08
 rank: 2
-layout: list
+layout: single
 tags: ["national trust for historic preservation", "rosenwald schools", "esri"]
 ---
 

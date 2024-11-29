@@ -19,6 +19,15 @@
   url: https://www.researchgate.net/publication/338039508_Hidden_value_in_the_platform's_platform_Airbnb_displacement_and_the_un-homing_spatialities_of_emotional_labor#fullTextFileContent
   doi: https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/tran.12367
 
+- title: "What seeps through the pores"
+  # sub: Airbnb and the un-homing spatialities of emotional labor
+  author: 'Ian Spangler'
+  journal: "you are here: a journal of creative geographies"
+  journal_info: '22: 6-13'
+  date: 2020
+  type: peer
+  path: sweat/
+
 - title: "Searching for the Enslaved in the 'Cradle of Democracy': "
   sub: Virginia's James River Plantations and the Reproduction of Local Social Memories
   author: 'Meredith Stone, Ian Spangler, Xavier Griffin, and Stephen Hanna'
@@ -37,6 +46,14 @@ and Social Computing"
   date: 2018
   type: peer
   url: https://dl.acm.org/doi/10.1145/3272973.3274066
+
+- title: 'Howdy, Realtors!'
+  author: 'Ian Spangler'
+  journal: "Leventhal Map & Education Center"
+  journal_info: 'n.p'
+  date: 2021
+  type: public
+  url: https://www.leventhalmap.org/articles/howdy-realtors/
 
 - title: 'Lexington, Kentucky'
   author: 'Ian Spangler'

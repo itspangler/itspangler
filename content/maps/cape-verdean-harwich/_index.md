@@ -9,4 +9,4 @@ tags: ["Leventhal Map & Education Center", "grants in aid"]
 ---
 A map produced for the Leventhal Map & Education Center's [Grants in Aid program](https://www.leventhalmap.org/images/grants-in-aid/spencer-map.png) depicting Cape Verdean residents in Harwich, MA in the late 19th and early 20th century. Data assembled by Amanda Chilaka.
 
-![map](https://www.leventhalmap.org/images/grants-in-aid/chilaka-map-final.png)
+[![map](https://www.leventhalmap.org/images/grants-in-aid/chilaka-map-final.png)](https://www.leventhalmap.org/images/grants-in-aid/chilaka-map-final.png)

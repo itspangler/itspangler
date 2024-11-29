@@ -4,9 +4,9 @@ collaborators: Gilda Bruckman
 date: 2022-05-08
 lastmod: 2023-05-08
 rank: 0
-layout: list
+layout: single
 ext_url: 
 tags: ["synagogues", "massachusetts", "leventhal map & education center"]
 ---
 
-[![iomg](https://massachusetts-synagogues-atlas.glitch.me/)](https://massachusetts-synagogues-atlas.glitch.me/)
+[![synagogues](synagogues.png)](https://massachusetts-synagogues-atlas.glitch.me/)
