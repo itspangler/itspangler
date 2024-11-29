@@ -110,3 +110,38 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+@keyframes changeColor {
+
+    0% {
+      background: repeating-conic-gradient(
+      from 0deg at 0% 0% in hsl longer hue,
+      hsla(190, 31%, 52%, 0.8) 10%,
+      hsla(33, 80%, 80%, 0.8) 30%,
+      hsla(251, 36%, 70%, 0.8) 60%);
+    }
+  
+    33% {
+      background: repeating-conic-gradient(
+      from 0deg at 0% 0% in hsl longer hue,
+      hsla(190, 31%, 52%, 0.8) 10%,
+      hsla(33, 80%, 80%, 0.8) 30%,
+      hsla(251, 36%, 70%, 0.8) 60%);
+    }
+  
+    66% {
+      background: repeating-conic-gradient(
+      from 0deg at 0% 0% in hsl longer hue,
+      hsla(190, 53%, 60%, 0.8) 10%,
+      hsla(65, 100%, 86%, 0.8) 30%,
+      hwb(251 79% 0% / 0.8) 60%);
+    }
+  
+    100% {
+      background: repeating-conic-gradient(
+      from 0deg at 0% 0% in hsl longer hue,
+      hsla(190, 31%, 52%, 0.8) 10%,
+      hsla(33, 80%, 80%, 0.8) 30%,
+      hsla(251, 36%, 70%, 0.8) 60%);
+      }
+  }
