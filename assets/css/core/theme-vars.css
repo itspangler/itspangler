@@ -76,13 +76,6 @@
 }
     
 @keyframes changeColor {
-  /* 0% {
-    background: repeating-conic-gradient(
-      from 0deg at 0% 0% in hsl longer hue,
-      hsla(129, 31%, 52%, 0.8) 10%,
-      hsla(284, 60%, 66%, 0.8) 30%,
-      hsla(158, 100%, 72%, 0.8) 60%);
-    } */
 
   0% {
     background: repeating-conic-gradient(

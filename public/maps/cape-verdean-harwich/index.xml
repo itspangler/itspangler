@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Early Cape Verdean Community of Pleasant Lake, Massachusetts on ian spangler</title>
-    <link>https://itspangler.com/maps/cape-verdean-harwich/</link>
+    <link>/maps/cape-verdean-harwich/</link>
     <description>Recent content in Early Cape Verdean Community of Pleasant Lake, Massachusetts on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://itspangler.com/maps/cape-verdean-harwich/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/maps/cape-verdean-harwich/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -68,7 +68,7 @@ body:not(.dark) #sun {
 #menu li {
     /* margin: 0px 4px 0px 4px; */
     &:hover {
-        background-color: rgb(255, 255, 132);
+        /* background-color: rgb(255, 255, 132); */
         animation: changeColor ease;
         animation-iteration-count: infinite;
         animation-duration: 4s;

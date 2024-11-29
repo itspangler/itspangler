@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tourism on ian spangler</title>
-    <link>https://itspangler.com/tags/tourism/</link>
+    <link>/tags/tourism/</link>
     <description>Recent content in Tourism on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itspangler.com/tags/tourism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tourism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short-term rentals and the platforming of emotional labor</title>
-      <link>https://itspangler.com/research/short-term-rentals/</link>
+      <link>/research/short-term-rentals/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/research/short-term-rentals/</guid>
+      <guid>/research/short-term-rentals/</guid>
       <description>How do short-term housing rental platforms (like Airbnb) change people&amp;#39;s relationships to the places they live? How do these platforms enroll people into value capture processes?</description>
     </item>
   </channel>

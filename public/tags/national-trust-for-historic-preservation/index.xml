@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>National Trust for Historic Preservation on ian spangler</title>
-    <link>https://itspangler.com/tags/national-trust-for-historic-preservation/</link>
+    <link>/tags/national-trust-for-historic-preservation/</link>
     <description>Recent content in National Trust for Historic Preservation on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://itspangler.com/tags/national-trust-for-historic-preservation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/national-trust-for-historic-preservation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

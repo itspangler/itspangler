@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Georeferencing on ian spangler</title>
-    <link>https://itspangler.com/tags/georeferencing/</link>
+    <link>/tags/georeferencing/</link>
     <description>Recent content in Georeferencing on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itspangler.com/tags/georeferencing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/georeferencing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allmaps</title>
-      <link>https://itspangler.com/projects/allmaps/</link>
+      <link>/projects/allmaps/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/projects/allmaps/</guid>
+      <guid>/projects/allmaps/</guid>
       <description>Project director on *Making Open-Source Georeferencing Software Collections-Ready with the Allmaps Platform* (NEH DHAG Award HAA-293491-23), a joint project to expand and develop the Allmaps software ecosystem created by Bert Spaan and Jules Schoonman</description>
     </item>
   </channel>

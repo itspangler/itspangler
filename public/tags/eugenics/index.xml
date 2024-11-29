@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Eugenics on ian spangler</title>
-    <link>https://itspangler.com/tags/eugenics/</link>
+    <link>/tags/eugenics/</link>
     <description>Recent content in Eugenics on ian spangler</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://itspangler.com/tags/eugenics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/eugenics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sweat sensing and the geopolitics of perspiration</title>
-      <link>https://itspangler.com/research/sweat/</link>
+      <link>/research/sweat/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://itspangler.com/research/sweat/</guid>
+      <guid>/research/sweat/</guid>
       <description>How have medical sciences observed, quantified, and analyzed perspiration over the last 400 years? More importantly, to what ends?</description>
     </item>
   </channel>
