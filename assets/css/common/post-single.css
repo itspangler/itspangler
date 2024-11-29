@@ -342,7 +342,7 @@
     border-radius: var(--radius);
     /* background: var(--code-bg); */
     border: 2px dotted var(--darkpurple);
-    font-family: var(--mono);
+    font-family: "IBM Plex Mono";
 }
 
 .post-tags a {

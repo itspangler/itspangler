@@ -24,7 +24,7 @@
 
 .profile .profile_inner span a {
     padding: 2px 8px 2px 8px;
-    font-family: var(--mono);
+    font-family: "IBM Plex Mono";
     margin-right: 1em;
     font-size: 0.8em;
     border-bottom: 2px dotted var(--darkpurple);
@@ -83,7 +83,7 @@
     margin: 8px 16px 8px 0px;
     padding: 6px;
     transition: transform 0.1s;
-    font-family: var(--mono);
+    font-family: "IBM Plex Mono";
 }
 
 .button-inner {

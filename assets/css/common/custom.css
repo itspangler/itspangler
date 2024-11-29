@@ -28,7 +28,7 @@
     grid-template-columns: 100px 1fr;
     padding: 5px 0;
     &>span {
-        font-family: var(--mono);
+        font-family: "IBM Plex Mono";
         &.date+span>a, &.ongoing+span>a {
             padding: 4px;
             line-height: 1.85em;
@@ -109,6 +109,7 @@
     /* background-color: rgb(105, 105, 105); */
     border: 1px dotted rgb(207, 207, 207);
     font-style: oblique;
+    max-height: fit-content;
 }
 
 .buffer {
