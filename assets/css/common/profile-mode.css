@@ -30,7 +30,7 @@
     font-size: 0.8em;
     border-bottom: 2px dotted var(--darkpurple);
     &:hover {
-      background-color: rgb(255, 255, 132);
+      /* background-color: rgb(255, 255, 132); */
       animation: changeColor ease;
       animation-iteration-count: infinite;
       animation-duration: 4s;
