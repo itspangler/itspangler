@@ -6,6 +6,8 @@ active: 0
 tags: ["digital real estate technologies","gentrification","tourism","feminist political economy","platforms"]
 author: Ian Spangler
 description: How do short-term housing rental platforms (like Airbnb) change people's relationships to the places they live? How do these platforms enroll people into value capture processes?
+support: ['Barnhart Withingon Research Award']
+grantlink: ['https://geography.as.uky.edu/support-geography']
 ---
 
 Conducted as part of my MA research between 2017 and 2019, this research explores how short-term rental platforms—particularly Airbnb—reconfigured people's relationships to the places where they lived. Drawing on fieldwork in New Orleans, LA, I found that platforms like Airbnb enrolled people into uneven processes of value capture. By slingshotting travelers into non-touristy, highly residential neighborhods, Airbnb leveraged the emotional labor of proximate neighbors in the process of capturing value for the platform.

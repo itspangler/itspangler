@@ -7,17 +7,30 @@
 
 <div class="list-grid">
     {{ range .Pages.ByLastmod.Reverse }}
-        <div class="simple-list">
-            {{ if .Params.Active }}<span class="ongoing">Active{{ else }}<span class="paused">Paused</span>{{ end }}</span>
-            <span class="item small">
-                <a href="{{ .Permalink }}" class="title">{{ .Title }}</a>
-                {{/*  <i>{{ .Params.journal }}</i> ({{ .Params.volume }}{{ if .Params.issue }}:{{ .Params.issue }}){{ end }}  */}}
+    <div class="simple-list">
+        {{ if .Params.Active }}<span class="ongoing">Active{{ else }}<span class="paused">Paused</span>{{ end }}</span>
+        <span class="item small">
+            <a href="{{ .Permalink }}" class="title">{{ .Title }}</a>
+            {{/* <i>{{ .Params.journal }}</i> ({{ .Params.volume }}{{ if .Params.issue }}:{{ .Params.issue }}){{ end }}
+            */}}
+        </span>
+    </div>
+    <div class="two-col">
+        <span>{{/*<img src="{{ .Params.img }}">*/}}</span>
+        <span class="narrow">
+            <p style="margin-bottom:20px">{{ .Description | markdownify}}</p>
+            <span class="collab">
+                {{ if .Params.support }}
+                <span>» This research was supported by: </span>
+                {{- $links := .Params.grantlink -}}
+                {{- $contents := .Params.support -}}
+                {{- range $index, $link := $links -}}
+                <a href="{{ $link }}" target="_blank">{{ index $contents $index }}</a>{{ if lt (add $index 1) (len $links) }}, {{ end }}
+                {{- end -}}
+                {{ end }}
             </span>
-        </div>
-        <div class="two-col">
-            <span></span>
-            <p class="narrow">{{ .Description | markdownify}}</p>
-        </div>
+        </span>
+    </div>
     {{ end }}
 </div>
 

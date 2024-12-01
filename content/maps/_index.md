@@ -1,4 +1,4 @@
 ---
-title: "maps"
+title: "selected maps"
 layout: maps
 ---

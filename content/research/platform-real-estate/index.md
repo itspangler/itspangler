@@ -8,6 +8,9 @@ author: Ian Spangler
 description: "How do spatial data standardization practices impact housing markets? How does digitization in the real estate industry change the design and enforcement of these standards? Who benefits?"
 showToc: false
 layout: single
+support: ["Doctoral Dissertation Research Improvement Grant (NSF #2147833)", "Carville Earle Research Award", "Barnhart Withington Research Award"]
+grantlink: ["https://www.nsf.gov/awardsearch/showAward?AWD_ID=2147833&HistoricalAwards=false", "https://www.historicalgeography.org/awards", 'https://geography.as.uky.edu/support-geography']
+img: "../research/platform-real-estate/oh-mls.png"
 ---
 
 This project explores how spatial data standardization practices shape the design and use of real estate technologies. Focusing on housing in the U.S. real estate industry, it asks: **how do standards, standardizing practices, and the institutions that enforce those practices affect housing?**

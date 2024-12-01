@@ -106,8 +106,8 @@ params:
           url: https://github.com/itspangler
         - name: BlueSky
           url: https://bsky.app/profile/itspangler.bsky.social
-        - name: Tag
-          url: /tags
+        # - name: Tag
+        #   url: /tags
         - name: CV
           url: '20241024_spangler_cv.pdf'
 
