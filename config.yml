@@ -109,7 +109,7 @@ params:
         # - name: Tag
         #   url: /tags
         - name: CV
-          url: '20241024_spangler_cv.pdf'
+          url: '20250521_spangler_cv.pdf'
 
     assets:
         disableScrollBarStyle: true

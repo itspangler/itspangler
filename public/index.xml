@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ian spangler</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on ian spangler</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Geospatial Humanities</title>
-      <link>/teaching/intro-geohum/</link>
+      <link>//localhost:1313/teaching/intro-geohum/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/teaching/intro-geohum/</guid>
+      <guid>//localhost:1313/teaching/intro-geohum/</guid>
       <description>Study in geospatial humanities</description>
     </item>
     <item>
       <title>Property protocols and digital real estate technologies</title>
-      <link>/research/platform-real-estate/</link>
+      <link>//localhost:1313/research/platform-real-estate/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>/research/platform-real-estate/</guid>
+      <guid>//localhost:1313/research/platform-real-estate/</guid>
       <description>How do spatial data standardization practices impact housing markets? How does digitization in the real estate industry change the design and enforcement of these standards? Who benefits?</description>
     </item>
     <item>
       <title>U.S. Cities</title>
-      <link>/teaching/us-cities/</link>
+      <link>//localhost:1313/teaching/us-cities/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/teaching/us-cities/</guid>
+      <guid>//localhost:1313/teaching/us-cities/</guid>
       <description>Introduction to urban geography</description>
     </item>
     <item>
       <title>Transparency, assetization, and digital data brokers</title>
-      <link>/research/transparency/</link>
+      <link>//localhost:1313/research/transparency/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/research/transparency/</guid>
+      <guid>//localhost:1313/research/transparency/</guid>
       <description>How do actors in the financial world—and particularly in the data broker industry—view the concept of transparency?</description>
     </item>
     <item>
       <title>Allmaps</title>
-      <link>/projects/allmaps/</link>
+      <link>//localhost:1313/projects/allmaps/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/projects/allmaps/</guid>
+      <guid>//localhost:1313/projects/allmaps/</guid>
       <description>Project director on *Making Open-Source Georeferencing Software Collections-Ready with the Allmaps Platform* (NEH DHAG Award HAA-293491-23), a joint project to expand and develop the Allmaps software ecosystem created by Bert Spaan and Jules Schoonman</description>
     </item>
     <item>
       <title>Sweat sensing and the geopolitics of perspiration</title>
-      <link>/research/sweat/</link>
+      <link>//localhost:1313/research/sweat/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>/research/sweat/</guid>
+      <guid>//localhost:1313/research/sweat/</guid>
       <description>How have medical sciences observed, quantified, and analyzed perspiration over the last 400 years? More importantly, to what ends?</description>
     </item>
     <item>
       <title>Introduction to GIS</title>
-      <link>/teaching/intro-gis/</link>
+      <link>//localhost:1313/teaching/intro-gis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/intro-gis/</guid>
+      <guid>//localhost:1313/teaching/intro-gis/</guid>
       <description>Intro to GIS</description>
     </item>
     <item>
       <title>Short-term rentals and the platforming of emotional labor</title>
-      <link>/research/short-term-rentals/</link>
+      <link>//localhost:1313/research/short-term-rentals/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <guid>/research/short-term-rentals/</guid>
+      <guid>//localhost:1313/research/short-term-rentals/</guid>
       <description>How do short-term housing rental platforms (like Airbnb) change people&amp;#39;s relationships to the places they live? How do these platforms enroll people into value capture processes?</description>
     </item>
     <item>
       <title>Processing Place</title>
-      <link>/projects/processing-place/</link>
+      <link>//localhost:1313/projects/processing-place/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/processing-place/</guid>
+      <guid>//localhost:1313/projects/processing-place/</guid>
       <description>Curated the Leventhal Map &amp;amp; Education Center&amp;#39;s exhibition on the human role in computer map-making, *Processing Place: How Computers and Cartographers Redrew our World*, on display September 2024–March 2025</description>
     </item>
   </channel>
