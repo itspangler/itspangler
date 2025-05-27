@@ -41,7 +41,7 @@
             line-height: 1.85em;
             border-bottom: 2px dotted var(--darkpurple);
             &:hover {
-                background-color: var(--highlightyellow);
+                background-color: var(--highlightgreen);
             }
         }
         &.paused+span>a {
@@ -50,7 +50,7 @@
             padding: 4px;
             border-bottom: 2px dotted var(--tertiary);
             &:hover {
-                background-color: var(--highlightyellow);
+                background-color: var(--highlightgreen);
             }
         }
         & span, i {
@@ -139,7 +139,6 @@
 
 hr {
     border: 0.5px solid var(--tertiary);
-    max-width: 200px;
 }
 
 .margin {

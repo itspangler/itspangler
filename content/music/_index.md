@@ -2,7 +2,7 @@
 title: "music"
 ---
 
-# music for loading screens
+# music for loading screens (2023)
 
 <div class="two-col-music">
 
@@ -35,3 +35,7 @@ title: "music"
 <iframe class="music" src="https://drive.google.com/file/d/1YUIAbR58e0mJmLe-jayxoUyA70Svxcda/preview" allow="autoplay"></iframe>
 
 </div>
+
+---
+
+*compositions by ian spangler*

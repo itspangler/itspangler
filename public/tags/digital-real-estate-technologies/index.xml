@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Real Estate Technologies on ian spangler</title>
-    <link>/tags/digital-real-estate-technologies/</link>
+    <link>//localhost:1313/tags/digital-real-estate-technologies/</link>
     <description>Recent content in Digital Real Estate Technologies on ian spangler</description>
-    <generator>Hugo -- 0.137.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/digital-real-estate-technologies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/digital-real-estate-technologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Property protocols and digital real estate technologies</title>
-      <link>/research/platform-real-estate/</link>
+      <link>//localhost:1313/research/platform-real-estate/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>/research/platform-real-estate/</guid>
+      <guid>//localhost:1313/research/platform-real-estate/</guid>
       <description>How do spatial data standardization practices impact housing markets? How does digitization in the real estate industry change the design and enforcement of these standards? Who benefits?</description>
     </item>
     <item>
       <title>Transparency, assetization, and digital data brokers</title>
-      <link>/research/transparency/</link>
+      <link>//localhost:1313/research/transparency/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/research/transparency/</guid>
+      <guid>//localhost:1313/research/transparency/</guid>
       <description>How do actors in the financial world—and particularly in the data broker industry—view the concept of transparency?</description>
     </item>
     <item>
       <title>Short-term rentals and the platforming of emotional labor</title>
-      <link>/research/short-term-rentals/</link>
+      <link>//localhost:1313/research/short-term-rentals/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
-      <guid>/research/short-term-rentals/</guid>
+      <guid>//localhost:1313/research/short-term-rentals/</guid>
       <description>How do short-term housing rental platforms (like Airbnb) change people&amp;#39;s relationships to the places they live? How do these platforms enroll people into value capture processes?</description>
     </item>
   </channel>

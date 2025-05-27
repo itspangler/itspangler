@@ -3,7 +3,7 @@
 <h1 class="buffer">{{ .Title }}</h1>
 
 <h3 class="buffer">{{ .Content }} </h3>
-<hr>
+
 
 <h3 class="buffer">interactives</h3>
 <div>
@@ -55,7 +55,7 @@
       document.getElementById('warning').style.display = 'none';
     }
 </script>
-<code id="warning" style="display:none;" class="small">proceed with caution, the maps in this section may not work as intended</code>
+<span id="warning" style="display:none;" class="small">proceed with caution, the maps in this section may not work as intended</span>
 <div>
     {{ range .Pages.ByDate.Reverse }}
     {{ if eq .Params.rank 2 }}

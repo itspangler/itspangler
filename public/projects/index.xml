@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>projects on ian spangler</title>
-    <link>/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in projects on ian spangler</description>
-    <generator>Hugo -- 0.137.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allmaps</title>
-      <link>/projects/allmaps/</link>
+      <link>//localhost:1313/projects/allmaps/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/projects/allmaps/</guid>
+      <guid>//localhost:1313/projects/allmaps/</guid>
       <description>Project director on *Making Open-Source Georeferencing Software Collections-Ready with the Allmaps Platform* (NEH DHAG Award HAA-293491-23), a joint project to expand and develop the Allmaps software ecosystem created by Bert Spaan and Jules Schoonman</description>
     </item>
     <item>
       <title>Processing Place</title>
-      <link>/projects/processing-place/</link>
+      <link>//localhost:1313/projects/processing-place/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/processing-place/</guid>
+      <guid>//localhost:1313/projects/processing-place/</guid>
       <description>Curated the Leventhal Map &amp;amp; Education Center&amp;#39;s exhibition on the human role in computer map-making, *Processing Place: How Computers and Cartographers Redrew our World*, on display September 2024–March 2025</description>
     </item>
   </channel>

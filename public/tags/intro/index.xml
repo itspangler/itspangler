@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Intro on ian spangler</title>
-    <link>/tags/intro/</link>
+    <link>//localhost:1313/tags/intro/</link>
     <description>Recent content in Intro on ian spangler</description>
-    <generator>Hugo -- 0.137.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to GIS</title>
-      <link>/teaching/intro-gis/</link>
+      <link>//localhost:1313/teaching/intro-gis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/intro-gis/</guid>
+      <guid>//localhost:1313/teaching/intro-gis/</guid>
       <description>Intro to GIS</description>
     </item>
   </channel>

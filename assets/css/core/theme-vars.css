@@ -42,7 +42,8 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
-    --highlightyellow: rgb(255, 255, 132);
+    --highlightyellow: rgb(255, 255, 163);
+    --highlightgreen: rgb(192, 255, 163);
 }
 
 .dark {
