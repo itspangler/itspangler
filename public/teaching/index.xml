@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>teaching on ian spangler</title>
-    <link>//localhost:1313/teaching/</link>
+    <link>/teaching/</link>
     <description>Recent content in teaching on ian spangler</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Geospatial Humanities</title>
-      <link>//localhost:1313/teaching/intro-geohum/</link>
+      <link>/teaching/intro-geohum/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/intro-geohum/</guid>
+      <guid>/teaching/intro-geohum/</guid>
       <description>Study in geospatial humanities</description>
     </item>
     <item>
       <title>U.S. Cities</title>
-      <link>//localhost:1313/teaching/us-cities/</link>
+      <link>/teaching/us-cities/</link>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/us-cities/</guid>
+      <guid>/teaching/us-cities/</guid>
       <description>Introduction to urban geography</description>
     </item>
     <item>
       <title>Introduction to GIS</title>
-      <link>//localhost:1313/teaching/intro-gis/</link>
+      <link>/teaching/intro-gis/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/teaching/intro-gis/</guid>
+      <guid>/teaching/intro-gis/</guid>
       <description>Intro to GIS</description>
     </item>
   </channel>

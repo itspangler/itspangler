@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Colonialism on ian spangler</title>
-    <link>//localhost:1313/tags/colonialism/</link>
+    <link>/tags/colonialism/</link>
     <description>Recent content in Colonialism on ian spangler</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/colonialism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/colonialism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sweat sensing and the geopolitics of perspiration</title>
-      <link>//localhost:1313/research/sweat/</link>
+      <link>/research/sweat/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/research/sweat/</guid>
+      <guid>/research/sweat/</guid>
       <description>How have medical sciences observed, quantified, and analyzed perspiration over the last 400 years? More importantly, to what ends?</description>
     </item>
   </channel>
